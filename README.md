@@ -4,7 +4,7 @@
 - 🎓 First-year student exploring tech and figuring things out
 - Institution: Vellore Institute of Technology, Bhopal
 - Batch: CSE branch with specialisation in AI&ML
-- Graduation year: 2029
+- Graduating year: 2029
 - 💻 Learning the **basics of programming and problem solving**
 - 🧠 Exploring domains like **AI/ML, development, and data science**
 - ⚡ Focused on building consistency and real understanding  
