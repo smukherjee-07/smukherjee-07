@@ -1,7 +1,7 @@
 ## Hello! 👋 I am Soumallaya Mukherjee
 
 ## 🚀 About Me
-- 🎓 First-year student exploring tech and figuring things out
+- 🎓 Sophomore student exploring tech and figuring things out
 - Institution: Vellore Institute of Technology, Bhopal
 - Batch: CSE branch with specialisation in AI&ML
 - Graduating year: 2029
